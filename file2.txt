@@ -1,2 +1,3 @@
 file2 contents here
 new line added in file2
+third line added at 9:31AM today
